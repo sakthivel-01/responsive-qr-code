@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/sakthivel-01/responsive-qr-code.git)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://sakthivel-01.github.io/responsive-qr-code/)
 
 ## My process
 
